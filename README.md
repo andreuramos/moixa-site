@@ -15,5 +15,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### Run
 `npm start`
 
-### Build
+### Build js
 `npm run build`
+
+### Build styles
+`npm run build:css`

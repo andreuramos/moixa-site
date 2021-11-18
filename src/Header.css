@@ -1,0 +1,14 @@
+.header {
+    background-color: #f2aa4a;
+    height: 10vh;
+    width: 100%;
+    display: block;
+}
+
+.header__logo {
+    margin: 0 auto;
+}
+
+.header__logo__img {
+    height: 8vh;
+}
