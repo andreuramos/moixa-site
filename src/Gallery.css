@@ -1,0 +1,11 @@
+.carrousel {
+    width: 100%;
+    height: 80vh;
+    background-color: gray;
+}
+
+.carrousel-picture {
+    max-height: 100%;
+    object-fit: cover;
+    overflow: hidden;
+}
